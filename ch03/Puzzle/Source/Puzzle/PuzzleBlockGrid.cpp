@@ -21,7 +21,7 @@ APuzzleBlockGrid::APuzzleBlockGrid()
 	ScoreText->AttachTo(DummyRoot);
 
 	// Set defaults
-	Size = 3;
+	Size = 14;
 	BlockSpacing = 300.f;
 }
 
